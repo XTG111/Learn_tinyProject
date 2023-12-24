@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson3\TriangleRas\main.cpp(96,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson3\TriangleRas\main.cpp(97,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson3\TriangleRas\main.cpp(121,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson3\TriangleRas\main.cpp(122,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  TriangleRas.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson3\TriangleRas\x64\Debug\TriangleRas.exe

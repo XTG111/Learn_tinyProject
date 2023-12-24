@@ -1,5 +1,6 @@
 ﻿  Draw_Line.cpp
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(19,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(21,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(22,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(33,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(35,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(38,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\Draw_Line.cpp(41,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
   Draw_Line.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line\x64\Debug\Draw_Line.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line_opti\Draw_Face\FaceDraw\main.cpp(27,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line_opti\Draw_Face\FaceDraw\main.cpp(51,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line_opti\Draw_Face\FaceDraw\main.cpp(52,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line_opti\Draw_Face\FaceDraw\main.cpp(53,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line_opti\Draw_Face\FaceDraw\main.cpp(54,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  model.cpp
+  tgaimage.cpp
+  正在生成代码...
+  FaceDraw.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson1\Draw_Line_opti\Draw_Face\FaceDraw\x64\Debug\FaceDraw.exe

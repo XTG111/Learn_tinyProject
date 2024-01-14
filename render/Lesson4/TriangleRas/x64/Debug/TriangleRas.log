@@ -1,0 +1,71 @@
+﻿  main.cpp
+  model.cpp
+  tgaimage.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(22,69): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(22,48): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(22,27): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(22,134): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(22,113): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(22,92): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(90,75): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(90,48): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(103,80): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(103,66): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\main.cpp(103,52): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  TriangleRas.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\x64\Debug\TriangleRas.exe

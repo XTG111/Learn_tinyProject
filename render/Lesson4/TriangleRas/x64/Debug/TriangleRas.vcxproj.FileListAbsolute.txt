@@ -1,2 +1,0 @@
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson3\TriangleRas\x64\Debug\TriangleRas.exe
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\TriangleRas\x64\Debug\TriangleRas.exe

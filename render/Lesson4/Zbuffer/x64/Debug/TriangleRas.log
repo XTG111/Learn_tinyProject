@@ -1,0 +1,36 @@
+﻿D:\runajian\vsstudio\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(TriangleRas.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(37,56): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(37,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(68,21): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(68,16): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(105,62): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(105,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(119,89): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(119,75): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(119,61): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  TriangleRas.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\x64\Debug\Zbuffer.exe

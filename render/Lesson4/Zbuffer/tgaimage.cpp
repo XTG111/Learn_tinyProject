@@ -253,10 +253,19 @@ bool TGAImage::unload_rle_data(std::ofstream& out) {
 }
 
 TGAColor TGAImage::get(int x, int y) {
-	if (!data || x < 0 || y < 0 || x >= width || y >= height) {
+	if (!data || x < 0|| y < 0 || x >= width  || y >= height ) {
 		return TGAColor();
 	}
-	return TGAColor(data + (x + y * width) * bytespp, bytespp);
+	
+	return TGAColor(data + int((x + y * width) * bytespp), bytespp);
+}
+
+TGAColor TGAImage::get(float x, float y) {
+	if (!data || x < 0.f || y < 0.f || x >= width*1.f || y >= height*1.f) {
+		return TGAColor();
+	}
+	//std::cerr << data + int((x + y * width) * bytespp) << " ";
+	return TGAColor(data + int((x + y * width) * bytespp), bytespp);
 }
 
 bool TGAImage::set(int x, int y, TGAColor c) {
@@ -310,6 +319,7 @@ bool TGAImage::flip_vertically() {
 }
 
 unsigned char* TGAImage::buffer() {
+	//std::cerr << data << std::endl;
 	return data;
 }
 

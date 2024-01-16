@@ -48,6 +48,7 @@ struct TGAColor {
 	TGAColor(const unsigned char* p, int bpp) : val(0), bytespp(bpp) {
 		for (int i = 0; i < bpp; i++) {
 			raw[i] = p[i];
+			//std::cerr << raw[i] << std::endl;
 		}
 	}
 
@@ -57,6 +58,26 @@ struct TGAColor {
 			val = c.val;
 		}
 		return *this;
+	}
+
+	TGAColor operator*(float i)
+	{
+		TGAColor color;
+		color.r = r * i;
+		color.g = g * i;
+		color.b = b * i;
+		color.a = a * i;
+		return color;
+	}
+
+	TGAColor operator+(const TGAColor& c)
+	{
+		TGAColor color;
+		color.r += c.r ;
+		color.g += c.g;
+		color.b += c.b;
+		color.a += c.a;
+		return color;
 	}
 };
 
@@ -84,6 +105,7 @@ public:
 	bool flip_vertically();
 	bool scale(int w, int h);
 	TGAColor get(int x, int y);
+	TGAColor get(float x, float y);
 	bool set(int x, int y, TGAColor c);
 	~TGAImage();
 	TGAImage& operator =(const TGAImage& img);

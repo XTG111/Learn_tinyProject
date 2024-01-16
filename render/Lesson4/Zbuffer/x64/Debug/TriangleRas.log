@@ -1,36 +1,106 @@
 ﻿D:\runajian\vsstudio\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(TriangleRas.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
   main.cpp
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(37,56): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+  model.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(66,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(67,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(68,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(69,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(38,56): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
           with
           [
               t=float
           ]
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(37,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(38,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
           with
           [
               t=float
           ]
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(68,21): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(70,21): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
           with
           [
               t=float
           ]
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(68,16): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(70,16): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
           with
           [
               t=float
           ]
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(105,62): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(85,56): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
           with
           [
               t=float
           ]
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(105,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(85,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
           with
           [
               t=float
           ]
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(119,89): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(119,75): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
-D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(119,61): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(121,82): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(121,63): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(121,43): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(121,21): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(121,16): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(66,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 model.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(67,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 model.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(68,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 model.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\tgaimage.h(69,15): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据 (编译源文件 model.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(168,39): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(171,62): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(171,32): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(172,55): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(172,24): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\geometry.h(20,78): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ] (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\geometry.h(20,17): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时 (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(115,58): message : 请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\main.cpp(115,16): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\geometry.h(20,71): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ] (编译源文件 main.cpp)
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\model.cpp(46,30): warning C4244: “参数”: 从“int”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
   TriangleRas.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson4\Zbuffer\x64\Debug\Zbuffer.exe

@@ -1,0 +1,114 @@
+﻿  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(38,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(69,59): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(69,35): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(101,33): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(101,28): warning C4244: “参数”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(116,59): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(116,35): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(129,23): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(131,27): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(143,87): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(150,52): warning C4244: “=”: 从“t”转换到“float”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(152,99): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(152,77): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(152,55): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(295,48): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(308,76): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(308,41): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(311,64): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(311,33): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\geometry.h(26,74): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\geometry.h(26,13): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(146,67): message : 请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\main.cpp(146,25): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\geometry.h(26,67): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+  PerspectiveProjection.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson5\PerspectiveProjection\x64\Debug\PerspectiveProjection.exe

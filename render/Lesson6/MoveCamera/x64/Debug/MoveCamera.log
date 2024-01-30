@@ -1,0 +1,211 @@
+﻿  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(43,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(74,59): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(74,35): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(87,23): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(89,27): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(101,87): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(105,52): warning C4244: “=”: 从“t”转换到“float”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(121,59): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(121,35): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(134,23): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(136,27): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(148,68): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(154,52): warning C4244: “=”: 从“t”转换到“float”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(155,83): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(155,66): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(155,49): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(170,59): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(170,35): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(183,23): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(185,27): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(197,87): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(204,52): warning C4244: “=”: 从“t”转换到“float”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(206,99): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(206,77): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(206,55): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(221,59): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(221,35): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(234,23): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(236,27): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(248,87): warning C4244: “=”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(257,52): warning C4244: “=”: 从“t”转换到“float”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(259,98): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(259,76): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(259,54): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(435,64): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(435,33): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\geometry.h(26,74): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\geometry.h(26,13): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(200,67): message : 请参阅 "triangle" 中对 "Vec2<int>::operator *" 的第一个引用
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\main.cpp(200,25): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\geometry.h(26,67): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+  MoveCamera.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson6\MoveCamera\x64\Debug\MoveCamera.exe

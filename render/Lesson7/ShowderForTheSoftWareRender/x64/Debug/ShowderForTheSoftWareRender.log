@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson7\ShowderForTheSoftWareRender\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson7\ShowderForTheSoftWareRender\main.cpp(138,39): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  ShowderForTheSoftWareRender.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson7\ShowderForTheSoftWareRender\x64\Debug\ShowderForTheSoftWareRender.exe

@@ -17,9 +17,9 @@ const int height = 800;
 
 //光源
 //Vec3f light_Dir(0, 0, -1);
-Vec3f light_Dir = Vec3f(1, 1, 1).normalize();
+Vec3f light_Dir = Vec3f(1, 1, 0).normalize();
 //相机
-Vec3f eye(2, -1, 3);
+Vec3f eye(1, 1, 4);
 //原始图像中心点
 Vec3f center(0, 0, 0);
 //设定的up向量
@@ -143,12 +143,35 @@ struct GlossyShader : public IShader
     }
 };
 
+//基础的Blinn-Phong
+struct PhongShader : public IShader {
+    mat<2, 3, float> varying_uv;  // triangle uv coordinates, written by the vertex shader, read by the fragment shader
+    mat<3, 3, float> varying_nrm; // normal per vertex to be interpolated by FS
+
+    virtual Vec4f vertex(int iface, int nthvert) {
+        varying_uv.set_col(nthvert, model->uv(iface, nthvert));
+        varying_nrm.set_col(nthvert, proj<3>((Projection * ModelView).invert_transpose() * embed<4>(model->normal(iface, nthvert), 0.f)));
+        Vec4f gl_Vertex = Projection * ModelView * embed<4>(model->vert(iface, nthvert));
+        //varying_tri.set_col(nthvert, gl_Vertex);
+        return gl_Vertex;
+    }
+
+    virtual bool fragment(Vec3f bar, TGAColor& color) {
+        Vec3f bn = (varying_nrm * bar).normalize();
+        Vec2f uv = varying_uv * bar;
+
+        float diff = std::max(0.f, bn * light_Dir);
+        color = model->diffuse(uv) * diff;
+        return false;
+    }
+};
+
 int main(int argc, char** argv) {
     if (2 == argc) {
         model = new Model(argv[1]);
     }
     else {
-        model = new Model("obj/african_head.obj");
+        model = new Model("obj/diablo3_pose.obj");
     }
 
     lookat(eye, center, up);
@@ -162,7 +185,7 @@ int main(int argc, char** argv) {
     //NormalShader shader;
     GlossyShader shader;
     //用于控制法线的变换
-    shader.uniform_M = Projection * ModelView;
+    shader.uniform_M = Projection*ModelView;
     shader.uniform_MIT = (Projection * ModelView).invert_transpose();
     for (int i = 0; i < model->nfaces(); i++)
     {

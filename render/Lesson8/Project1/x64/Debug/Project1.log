@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson8\Project1\tgaimage.h(59,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson8\Project1\main.cpp(44,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson8\Project1\main.cpp(54,67): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson8\Project1\main.cpp(54,63): warning C4244: “=”: 从“const _Ty”转换到“unsigned char”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  Project1.vcxproj -> D:\runajian\tinyproject_study\learn\Learn_tinyProject\render\Lesson8\Project1\x64\Debug\Project1.exe
